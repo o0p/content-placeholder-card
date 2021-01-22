@@ -28,3 +28,7 @@ img {
   overflow: hidden;
   width: 21.875rem;
 }
+
+.card-header {
+  height: 200px;
+}
