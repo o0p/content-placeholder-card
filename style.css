@@ -17,3 +17,7 @@ background-color: #ecf0f1;
   overflow: hidden;
   margin: 0;
 }
+
+img {
+  max-width: 100%;
+}
