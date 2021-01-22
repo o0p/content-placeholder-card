@@ -27,14 +27,19 @@ img {
   border-radius: 0.625rem;
   overflow: hidden;
   width: 21.875rem;
-}
+} 
 
 .card-header {
-  height: 200px;
+  height: 12.5rem;
 }
 
 .card-header img {
   object-fit: cover;
   height: 100%;
   width: 100%;
+}
+
+.card-content {
+  background-color: white;
+  padding: 1.875rem;
 }
