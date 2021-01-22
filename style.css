@@ -45,13 +45,13 @@ img {
 }
 
 .card-title {
-  height: 20px;
+  height: 1.25rem;
   margin: 0;
 }
 
 .card-excerpt {
   color: #777;
-  margin: 10px 0 20px;
+  margin: 0.625rem 0 20px;
 }
 
 .author {
@@ -61,14 +61,19 @@ img {
 .profile-img {
   border-radius: 50%;
   overflow: hidden;
-  height: 40px;
-  width: 40px;
+  height: 2.5rem;
+  width: 2.5rem;
 }
 
 .author-info {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  margin-left: 10px;
-  width: 100px;
+  margin-left: 0.625rem;
+  width: 6.25rem;
+}
+
+.author-info small {
+  color: #aaa;
+  margin-top: 0.3125rem;
 }
